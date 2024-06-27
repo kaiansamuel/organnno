@@ -1,6 +1,7 @@
 .footer {
     display: flex;
     flex-wrap: wrap;
+    gap: 5px;
     background: #6278F7;
     color: #FFF;
     padding: 80px;
